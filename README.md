@@ -30,3 +30,4 @@ Then select your main camera and go to "cCharkes/Image Effects/Rendering/Stochas
 - Bart Wronski <@BartWronsk> https://github.com/bartwronski/BlueNoiseGenerator/
 
 Thanks to Tomasz Stachowiak (@h3r2tic) for his help.
+![企业微信截图_20220817175632](https://user-images.githubusercontent.com/11438971/185090991-5f062d26-588a-4b5e-9183-908254bc76bc.png)
